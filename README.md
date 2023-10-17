@@ -3,9 +3,12 @@
  
  Consome o json proveniente da api pública do viacep.com.br, indexada ao endereço "https://viacep.com.br/ws/'cep'/json"
  
+ <img src="/ConsultaCep/images/caso_uso.png">
+
  Projeto desenvolvido com o framework Spring e baseado na arquitetura maven
- 
- ![Uploading image.png…]()
+
+ Foram utilizados as dependencias: Spring Data JPA, Spring Web e o Lombok
+
 
 
  
